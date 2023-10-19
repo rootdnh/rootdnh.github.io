@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d0996391.js",
+    "static/media/the-band.png": "/static/media/the-band.23ca5a4b89b4b939c11f.png",
+    "static/media/perfil.png": "/static/media/perfil.c05ae95fb0c8751c9b61.png",
+    "static/media/crud-cli.png": "/static/media/crud-cli.c86c58ae2cc02e225a23.png",
+    "static/media/portfolio.png": "/static/media/portfolio.62704180a148255ade9b.png",
+    "static/media/computer-side.png": "/static/media/computer-side.aaa89f2f67afb5d65ae6.png",
+    "static/media/multi-db.png": "/static/media/multi-db.818500bafe61189a8868.png",
+    "static/media/blog-api.png": "/static/media/blog-api.f0320f5916182bbed753.png",
+    "static/media/blog.png": "/static/media/blog.cb7e0f7f8566843e6d05.png",
+    "static/media/php.jpg": "/static/media/php.bbd9bea42acfd9b40b85.jpg",
+    "static/media/game-of-life.jpg": "/static/media/game-of-life.a9eb619289d039bd967d.jpg",
+    "static/media/api-spring.jpg": "/static/media/api-spring.3e1e5aafe4f7023184fc.jpg",
+    "index.html": "/index.html",
+    "main.d0996391.js.map": "/static/js/main.d0996391.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d0996391.js"
+  ]
+}
